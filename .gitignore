@@ -1,0 +1,3 @@
+## gitignore sirve para ocultar archivos, para no exponer información sensible (credenciales, contraseñas), esto es MUY IMPORTANTE.
+secretos.txt
+.env
